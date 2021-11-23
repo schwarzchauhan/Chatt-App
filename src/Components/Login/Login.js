@@ -38,7 +38,7 @@ const submitForm = (e)=> {
                    /> 
                 </div>
 
-                <button type="submit"> Login </button>   
+                <button type="submit"> LOGIN </button>   
 
              </form>
         </div>
